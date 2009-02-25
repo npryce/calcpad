@@ -1,0 +1,7 @@
+Calcpad: a utility for doing calculations as if with a pad and calculator
+
+* More useful than a GUI calculator application
+* Simpler than a spreadsheet application
+
+Has a Gtk+ front end.  Uses the Bertrand constraint programming language 
+to perform calculations.
