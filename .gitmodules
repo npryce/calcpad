@@ -1,0 +1,3 @@
+[submodule "bertrand"]
+	path = bertrand
+	url = git://github.com/npryce/bertrand.git
