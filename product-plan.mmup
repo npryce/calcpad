@@ -1,11 +1,28 @@
 {
-  "title": "Press Space or double-click to edit",
+  "title": "Calcpad",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
     "1": {
-      "title": "nop",
+      "title": "Use Z3 as the underlying solver",
       "id": 2
+    },
+    "11": {
+      "title": "Use Qt as the GUI Toolkit (not Gtk / Gnome)",
+      "id": 5
+    },
+    "-1": {
+      "title": "Package for Debian / Ubuntu",
+      "id": 3
+    },
+    "-12": {
+      "title": "MacOS X Version",
+      "id": 4
+    },
+    "-22": {
+      "title": "Windows Version",
+      "id": 6
     }
-  }
+  },
+  "links": []
 }
